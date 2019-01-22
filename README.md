@@ -13,7 +13,7 @@
 </div>
 <br/>
 
-English | [简体中文](README-zh_CN.md)
+English | [简体中文](https://github.com/chensimeng/ng-zorro-plus/blob/master/README-zh_CN.md)
 
 ## ✨ Features
 
@@ -43,11 +43,11 @@ $ ng add ng-plus
 ```
 
 ## Components
-* [x] [file-read](docs/en-US/file-read.md)
-* [x] [G2 chart](docs/en-US/g2.md) 
-* [x] [graph](docs/en-US/graph.md)
-* [x] [humanize](docs/en-US/humanize.md)
-* [x] [monaco-editor](docs/en-US/monaco-editor.md)
-* [x] [navigation-tab](docs/en-US/navigation-tab.md)
-* [x] [resize](docs/en-US/resize.md)
-* [x] [time-range](docs/en-US/time-range.md)
+* [x] [file-read](https://github.com/chensimeng/ng-zorro-plus/blob/master/docs/en-US/file-read.md)
+* [x] [G2 chart](https://github.com/chensimeng/ng-zorro-plus/blob/master/docs/en-US/g2.md) 
+* [x] [graph](https://github.com/chensimeng/ng-zorro-plus/blob/master/docs/en-US/graph.md)
+* [x] [humanize](https://github.com/chensimeng/ng-zorro-plus/blob/master/docs/en-US/humanize.md)
+* [x] [monaco-editor](https://github.com/chensimeng/ng-zorro-plus/blob/master/docs/en-US/monaco-editor.md)
+* [x] [navigation-tab](https://github.com/chensimeng/ng-zorro-plus/blob/master/docs/en-US/navigation-tab.md)
+* [x] [resize](https://github.com/chensimeng/ng-zorro-plus/blob/master/docs/en-US/resize.md)
+* [x] [time-range](https://github.com/chensimeng/ng-zorro-plus/blob/master/docs/en-US/time-range.md)

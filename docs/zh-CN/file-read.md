@@ -13,7 +13,7 @@
 | `(fileError)` | 当有错误时触发 | `{ reason: string }` | - |
 
 
-## DEMO
+##DEMO
 
 ```bash 
 <input nz-file-read type="file" (fileRead)="onFileRead($event)">
