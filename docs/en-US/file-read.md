@@ -13,7 +13,7 @@ It supports single selection and multiple selection.
 | `(fileError)` | When there is an error | `{ reason: string }` | - |
 
 
-##DEMO
+## DEMO
 
 ```bash 
 <input nz-file-read type="file" (fileRead)="onFileRead($event)">
